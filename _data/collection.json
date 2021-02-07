@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Brenda Marie Osbey interview, 2nd Furious Flower Conference (2004)" ] },
+    "summary": { "en": [ "Camille Dungy interviewed Brenda Marie Osbey during the 2004 Furious Flower Conference held at James Madison University" ] },
+    "items": [
+    ]
+}
