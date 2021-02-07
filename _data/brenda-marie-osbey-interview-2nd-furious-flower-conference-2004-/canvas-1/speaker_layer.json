@@ -1,0 +1,764 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer.json",
+  "type": "AnnotationPage",
+  "label": "Speaker_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "5.397066,8.866608"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "9.252113,16.576702"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "16.576702,25.443310"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "26.985329,110.639850"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "110.639850,128.758571"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "128.758571,279.490911"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "279.105406,301.464679"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "301.850183,603.700367"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "605.242386,619.891564"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "621.433583,907.092569"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "907.092569,926.753309"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "926.753309,1032.188846"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1032.285222,1040.188068"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1040.573573,1178.102376"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1179.162514,1193.426188"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1193.811693,1333.460772"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1334.424534,1352.061374"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1352.350503,1601.675670"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1602.543056,1614.879206"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1615.361087,1699.304736"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1700.364874,1710.869878"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1712.893777,1800.885226"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1801.463483,1807.053301"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1807.438806,1919.620675"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1919.717051,1944.774857"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1944.871233,2229.566457"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2229.662833,2232.264990"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2232.650495,2248.167059"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2248.167059,2262.237981"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2262.816238,2312.064464"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2313.413730,2335.483875"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2336.640389,2342.808464"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2343.772226,2348.301906"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2353.506220"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camille Dungy speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2354.951862,2358.035900"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/speaker_layer-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Brenda Marie Osbey speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2358.325028,2365.071361"
+        }
+      }
+    }
+  ]
+}
