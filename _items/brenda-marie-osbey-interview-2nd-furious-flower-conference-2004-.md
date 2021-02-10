@@ -6,3 +6,4 @@ external_manifest_url:
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
+Video transcript from the second Furious Flower decennial conference, September 24, 2004.  Carmen Gillespie interviews Brenda Marie Osbey, camera stays on Osbey.
