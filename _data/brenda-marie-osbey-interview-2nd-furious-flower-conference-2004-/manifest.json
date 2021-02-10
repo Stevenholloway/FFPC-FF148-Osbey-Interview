@@ -33,12 +33,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/transcription.json",
-            "label": "Transcription"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/notes.json",
             "label": "Notes"
           }
