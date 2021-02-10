@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/notes.json",
+  "type": "AnnotationPage",
+  "label": "Notes",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/notes-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "microphone check",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "5.080754,17.274565"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas/notes-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "speaking cut off in mid sentence",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://Stevenholloway.github.io/FFPC-FF148-Osbey-Interview/brenda-marie-osbey-interview-2nd-furious-flower-conference-2004-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2365.091130"
+        }
+      }
+    }
+  ]
+}
