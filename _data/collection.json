@@ -3,6 +3,29 @@
     "id": "https://example.com/collection.json",
     "type": "Collection",
     "label": { "en": [ "Brenda Marie Osbey interview, 2nd Furious Flower Conference (2004)" ] },
+    "metadata": [ { "label": { "en": [ "Author" ] }, 
+                   "value": { "none": [ "Furious Flower Poetry Center" ] }
+                   },
+                 {
+                    "label": { "en": [ "Published" ] },
+                    "value": { "none": [ "2004" ] }
+                 },
+                 ],
+    "homepage": [
+      {
+        "id": "https://commons.lib.jmu.edu/ffpc-2004/17/",
+        "type": "Text",
+        "label": { "en": [ "Brenda Marie Osbey interview, 2nd Furious Flower Conference (2004)" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://commons.lib.jmu.edu/",
+        "type": "Agent",
+        "label": { "en": [ "JMU Scholarly Commons" ] }
+      }
+    ],
     "summary": { "en": [ "Carmen Gillespie interviewed Brenda Marie Osbey during the 2004 Furious Flower Conference held at James Madison University" ] },
     "items": [
     ]
